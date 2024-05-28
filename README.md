@@ -1,3 +1,3 @@
 # danish
-this is my first git repository
-author danish alan
+this is my first git repository.<br>
+author danish alam
